@@ -1,0 +1,77 @@
+body{
+	height:100vh;
+	background-color: #FFFFFF;
+background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
+
+	padding-top:20px;
+}
+.background{
+	background-color:orange;
+	color:white;
+	font-size:20px;
+}
+
+button{
+	height:50px;
+	width:50px;
+	border-radius:50px;
+	border:0;
+	margin-bottom:5px;
+}
+
+.a{
+	width:104px;
+}
+
+.nul{
+	width:104px;
+	padding-right:80px;
+	font-size:20px;
+	
+	background-color:rgb(113, 113, 113);
+	color:white;
+}
+
+.k{
+	background-color:rgb(113, 113, 113);
+	color:white;
+	font-size:20px;
+
+
+	
+}
+
+.app{
+	background-color:black;
+	width:215px;
+	padding:10px;
+	border-radius:20px;
+	margin:0 auto;
+	-webkit-box-shadow: 20px 20px 33px -1px rgba(235,18,141,1);
+-moz-box-shadow: 20px 20px 33px -1px rgba(235,18,141,1);
+box-shadow: 20px 20px 33px -1px rgba(235,18,141,1);
+
+
+
+}
+
+
+.y{
+	background-color:black;
+	width:95%;
+	height:50px;
+	border:0;
+	color:white;
+	font-size:40px;
+	text-align:right; 
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+
+
+
+
+
